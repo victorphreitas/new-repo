@@ -11,6 +11,7 @@
 .main-header {
   padding-top: 2rem;
   margin: auto;
+  color: #fa0;
 }
 
 .version-control__paragraph {
@@ -28,7 +29,7 @@
   letter-spacing: 1.4;
   line-height: 1.4;
   color: #fff;
-  background-color: #111;
+  background-color: #aaa;
   transition-duration: 1000ms;
   cursor: pointer;
 }
@@ -37,6 +38,6 @@
   font-size: 18px;
   letter-spacing: 1.5;
   line-height: 1.5;
-  color: #000;
+  color: #aaa;
   transition-duration: 1000ms;
 }
